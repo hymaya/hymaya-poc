@@ -1,0 +1,19 @@
+{
+    "home": {
+        "title": "Bienvenue, Hymaya !",
+        "subtitle": "Ceci est votre page d'accueil",
+        "logged": {
+            "message": "Vous êtes connecté en tant que \"{{username}}\"."
+        },
+        "question": "Si vous avez des questions à propos de Hymaya :",
+        "link": {
+            "homepage": "Page d'accueil de Hymaya",
+            "stackoverflow": "Hymaya sur Stack Overflow",
+            "bugtracker": "Hymaya bug tracker",
+            "chat": "Hymaya public chat room",
+            "follow": "Suivez @Hymaya sur Twitter"
+        },
+        "like": "Si vous aimez Hymaya, donnez nous une étoile sur",
+        "github": "GitHub "
+    }
+}
